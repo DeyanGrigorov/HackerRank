@@ -1,2 +1,1 @@
-test = list(map(int, input().split(',')))
-print(test)
+print(round(11,4))
